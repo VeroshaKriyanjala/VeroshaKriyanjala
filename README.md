@@ -1,3 +1,5 @@
+<div style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
+
 <h1 align="center" style="font-family: 'Fira Code', monospace; color: #FFFFFF;">Hi 👋, I'm Verosha Kriyanjala</h1>
 <h3 align="center" style="font-family: 'Fira Code', monospace; color: #FFFFFF;">A dedicated Computer Science & Engineering student with a strong foundation in programming and a keen interest in software development.</h3>
 
@@ -8,7 +10,7 @@
     </p>
     <p align="left"> 
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=veroshakriyanjala" alt="veroshakriyanjala" />
+        <img src="https://github-profile-trophy.vercel.app/?username=veroshakriyanjala&theme=darkhub" alt="veroshakriyanjala" />
       </a> 
     </p>
   </div>
@@ -71,3 +73,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veroshakriyanjala&show_icons=true&locale=en&theme=dark" alt="veroshakriyanjala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=veroshakriyanjala&theme=dark" alt="veroshakriyanjala" /></p>
+
+</div>
