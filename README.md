@@ -18,9 +18,8 @@
 
 <br/>
 
-- 💼 I’m currently a **Software Engineering Intern at Cloud Solutions International**
-- 🔭 I’m currently working on **Ceylona Academy - E-Learning Platform**
 - 🔬 My final year project is **LiteGAD - Deepfake Detection Using Graph Neural Networks**
+- 🔭 I’m currently working on **Ceylona Academy - E-Learning Platform**
 - 🌱 I’m currently learning **Advanced MLOps and Cloud-Native Architectures**
 - 👨‍💻 All of my projects are available at [veroshakriyanjala.me](https://veroshakriyanjala.me)
 - 📫 How to reach me **verosha.21@cse.mrt.ac.lk**
