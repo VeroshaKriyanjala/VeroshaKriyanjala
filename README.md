@@ -80,7 +80,7 @@
   </a>
 </p>
 
-<h4 style="font-family: 'Fira Code', monospace; color: #FFFFFF;">Database & Tools:</h4>
+<h4 style="font-family: 'Fira Code', monospace; color: #FFFFFF;">Databases:</h4>
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
