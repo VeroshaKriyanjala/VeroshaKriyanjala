@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **Ceylona Academy - E-Learning Platform**
 - 🌱 I’m currently learning **Advanced MLOps and Cloud-Native Architectures**
 - 👨‍💻 All of my projects are available at [veroshakriyanjala.me](https://veroshakriyanjala.me)
-- 📫 How to reach me **verosha.21@cse.mrt.ac.lk**
+- 📫 How to reach me **veroshakriyanjala32@gmail.com**
 
 <h3 align="left" style="font-family: 'Fira Code', monospace; color: #FFFFFF;">Connect with me:</h3>
 <p align="left">
